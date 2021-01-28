@@ -7,8 +7,8 @@ List of GitHub profiles that you can use for inspiration. Feel free to add your 
 <!-- DO NOT EDIT -->
 <!--data-section-->
 <table width="100%">
-  <tr><td align="center"><p><a href="https://github.com/vinzvinci">Vincent Villafuerte</a></p>
-  <img src="https://user-images.githubusercontent.com/73097560/103608126-91b05900-4f55-11eb-84af-d30f20d9332c.png" /><p><a href="https://github.com/surpathcommunity/github-  profiles-list/issues/2"></a></p></td>
+  <tr><td align="center"><p>Vincent Villafuerte<br><a href="https://github.com/vinzvinci/vinzvinci">Give me a Star</a></p>
+  <img src="https://user-images.githubusercontent.com/73097560/106095676-2120e480-616f-11eb-8268-e37294ddaa48.png" /><p><a href="https://github.com/surpathcommunity/github-  profiles-list/issues/2"></a></p></td>
   </tr>
 </table>
 
