@@ -2,7 +2,12 @@
 
 List of GitHub profiles that you can use for inspiration. Feel free to add your awesome GitHub profile
 
-<br>
+## Helpful content to customize your profile
+- <a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a>
+- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Github Readme Streak Stats</a>
+- <a href="https://buttons.github.io/">GitHub buttons</a>
+- <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges</a>
+- <a href="https://shields.io/">Shields.io</a>
 
 ## How to add github profile
 - Create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
