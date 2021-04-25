@@ -5,6 +5,8 @@ List of GitHub profiles that you can use for inspiration. Feel free to add your 
 ## Helpful content to customize your profile
 - <a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a>
 - <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Github Readme Streak Stats</a>
+- <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
+- <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a>
 - <a href="https://buttons.github.io/">GitHub buttons</a>
 - <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges</a>
 - <a href="https://shields.io/">Shields.io</a>
