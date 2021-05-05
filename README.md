@@ -18,7 +18,7 @@ List of GitHub profiles that you can use for inspiration. Feel free to add your 
 {
     "name": "Vincent Villafuerte",
     "githubUsername": "vinzvinci",
-    "imageUrl": "https://user-images.githubusercontent.com/73097560/116779959-e13e0600-aaab-11eb-9515-ed692c994089.png",
+    "imageUrl": "https://user-images.githubusercontent.com/73097560/117130491-b49f2c80-add2-11eb-90bb-a04331c96a4b.png",
     "issueNumber": 2
 }
 ```
@@ -34,7 +34,7 @@ Note: Only people from the **Philippines** are allowed to add their github profi
 <!--data-section-->
 <table width="100%">
   <tr><td align="center"><p>Vincent Villafuerte<br><a href="https://github.com/vinzvinci/vinzvinci">Give me a Star</a></p>
-  <img src="https://user-images.githubusercontent.com/73097560/116779959-e13e0600-aaab-11eb-9515-ed692c994089.png" /><p><a href="https://github.com/surpathcommunity/github-  profiles-list/issues/2"></a></p></td>
+  <img src="https://user-images.githubusercontent.com/73097560/117130491-b49f2c80-add2-11eb-90bb-a04331c96a4b.png"></a></p></td>
   </tr>
 </table>
 <!--END-->
