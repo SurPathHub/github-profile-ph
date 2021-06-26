@@ -2,6 +2,10 @@
 
 List of GitHub profiles that you can use for inspiration. Feel free to add your awesome GitHub profile
 
+## Create repository
+- First step is create repository, then name it same with your GitHub username (ex. <a href="https://github.com/vinzvinci">vinzvinci</a>).
+    - You can follow this steps: <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">managing-your-profile-readme</a>. 
+
 ## Helpful content to customize your profile
 - <a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a>
 - <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Github Readme Streak Stats</a>
