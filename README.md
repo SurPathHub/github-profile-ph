@@ -32,7 +32,7 @@ List of GitHub profiles that you can use for inspiration. Feel free to add your 
 
 <hr>
 
-Note: Only people from the **Philippines** are allowed to add their github profile in this repository.
+Note: Only people from the **Philippines** are allowed to add their github profile in this repository, but you can add your GitHub profile to the [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles).
 
 <hr>
 
