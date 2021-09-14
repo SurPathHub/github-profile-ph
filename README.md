@@ -17,30 +17,6 @@ List of GitHub profiles that you can use for inspiration. Feel free to add your 
 - <a href="https://shields.io/">Shields.io</a>
 - <a href="https://gist.github.com/rxaviers/7360908">Emoji CheatSheet</a>
 
-## How to add github profile
-- Create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
-- In data.json add your own object to the end of the file, your entry should be similar to this example:
-```
-{
-    "name": "Vincent Villafuerte",
-    "githubUsername": "vinzvinci",
-    "imageUrl": "https://user-images.githubusercontent.com/73097560/117130491-b49f2c80-add2-11eb-90bb-a04331c96a4b.png",
-    "issueNumber": 2
-}
-```
-- Wait for your changes to be merged.
+#### :octocat: Need some ideas or inspiration to customize your profile?
 
-<hr>
-
-Note: Only people from the **Philippines** are allowed to add their github profile in this repository, but you can add your GitHub profile to the [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles).
-
-<hr>
-
-<!-- DO NOT EDIT -->
-<!--data-section-->
-<table width="100%">
-  <tr><td align="center"><p>Vincent Villafuerte<br><a href="https://github.com/vinzvinci/vinzvinci">Give me a Star</a></p>
-  <img src="https://user-images.githubusercontent.com/73097560/117130491-b49f2c80-add2-11eb-90bb-a04331c96a4b.png"></a></p></td>
-  </tr>
-</table>
-<!--END-->
+Please visit [EddieHubCommunity/Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
