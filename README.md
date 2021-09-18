@@ -1,6 +1,6 @@
 # GitHub Profiles
 
-List of GitHub profiles that you can use for inspiration. Feel free to add your awesome GitHub profile
+Guide to customize your GitHub profile and make it stand out.
 
 ## Create repository
 - First step is create repository, then name it same with your GitHub username (ex. <a href="https://github.com/vinzvinci">vinzvinci</a>).
