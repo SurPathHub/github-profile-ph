@@ -20,3 +20,7 @@ Guide to customize your GitHub profile and make it stand out.
 #### :octocat: Need some ideas or inspiration to customize your profile?
 
 Please visit [EddieHubCommunity/Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+
+## Get the free GitHub course to make your profile standout
+
+https://www.eddiejaoude.io/course-github-profile-landing
